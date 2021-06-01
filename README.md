@@ -20,3 +20,7 @@
 <a href="https://fb.com/pondthaitay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pondthaitay" height="30" width="40" /></a>
 <a href="https://medium.com/@officialjedsada" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@officialjedsada" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Support:</h3>
+
+[![paypal.me/pondthaitay](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/pondthaitay) - You can make one-time donations via PayPal. I'll probably buy a :coffee:.
