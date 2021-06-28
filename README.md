@@ -10,15 +10,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-jedsada&" alt="t-jedsada" /></p>
 
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/officialjedsada" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="officialjedsada" height="30" width="40" /></a>
-<a href="https://twitter.com/officialjedsada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="officialjedsada" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pondthaitay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pondthaitay" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4731759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4731759" height="30" width="40" /></a>
-<a href="https://fb.com/pondthaitay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pondthaitay" height="30" width="40" /></a>
-<a href="https://medium.com/@officialjedsada" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@officialjedsada" height="30" width="40" /></a>
+<p align="left" style="display:inline-flex;flex-wrap:wrap;">
+<a href="https://dev.to/officialjedsada" target="blank" style="margin-right:6px"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="officialjedsada" height="30" width="40" /></a>
+<a href="https://twitter.com/officialjedsada" target="blank" style="margin-right:6px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="officialjedsada" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pondthaitay" target="blank" style="margin-right:6px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pondthaitay" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4731759" target="blank" style="margin-right:6px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4731759" height="30" width="40" /></a>
+<a href="https://fb.com/pondthaitay" target="blank" style="margin-right:6px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pondthaitay" height="30" width="40" /></a>
+<a href="https://medium.com/@officialjedsada" target="blank" style="margin-right:6px"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@officialjedsada" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
