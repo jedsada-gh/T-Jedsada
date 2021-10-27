@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jedsada Tiwongvorakul (Pond)</h1>
-
 I really love to learn new things and improve myself every day and I hope today you enjoy coding. Nice to meet you guys 🙌
 
 </br>
+</br>
 
+<a href="https://app.daily.dev/pondthaitay" target="_blank"><img src="https://api.daily.dev/devcards/191f685fbf504631adf33a3ba3765a3d.png?r=bf9" width="256" align="right" alt="Jedsada Tiwongvorakul's Dev Card"/></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-jedsada&margin-w=15&margin-h=14&column=4" alt="t-jedsada" /></a> </p>
 
@@ -20,6 +21,7 @@ I really love to learn new things and improve myself every day and I hope today 
 <a href="https://dev.to/officialjedsada" target="blank" style="margin-right:6px"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="officialjedsada"/></a>
 <a href="https://twitter.com/officialjedsada" target="blank" style="margin-right:6px"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="officialjedsada"/></a>
 <a href="https://stackoverflow.com/users/4731759" target="blank" style="margin-right:6px"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stack overflow" /></a>
+
 </p>
 
 <h3 align="left">Support:</h3>
