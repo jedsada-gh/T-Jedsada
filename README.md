@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jedsada Tiwongvorakul (Pond)</h1>
-I really love to learn new things and improve myself every day and I hope today you enjoy coding. Nice to meet you guys 🙌
+<h1 align="left">Hi there 👋 , I hope you getting a good day.</h1>
+
+<p align="left" margin="10px">
+I'm Jedsada Tiwongvorakul (Pond). I really love to learn new things and improve myself every day and I hope today you enjoy coding. Nice to meet you guys 🙌
+</p>
 
 </br>
-</br>
 
-<a href="https://app.daily.dev/pondthaitay" target="_blank"><img src="https://api.daily.dev/devcards/191f685fbf504631adf33a3ba3765a3d.png?r=bf9" width="256" align="right" alt="Jedsada Tiwongvorakul's Dev Card"/></a>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-jedsada&margin-w=15&margin-h=14&column=4" alt="t-jedsada" /></a> </p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-jedsada&margin-w=15&margin-h=12&column=4" alt="t-jedsada" /></a></p>
 
 [![Jedsada's github stats](https://github-readme-stats.vercel.app/api?username=T-Jedsada&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
