@@ -4,8 +4,6 @@
 I'm Jedsada Tiwongvorakul (Pond). I really love to learn new things and improve myself every day and I hope today you enjoy coding. Nice to meet you guys 🙌
 </p>
 
-</br>
-
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-jedsada&margin-w=15&margin-h=12&column=4" alt="t-jedsada" /></a></p>
 
 [![Jedsada's github stats](https://github-readme-stats.vercel.app/api?username=T-Jedsada&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
