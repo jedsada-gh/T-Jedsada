@@ -1,7 +1,7 @@
-<h1 align="left">Hi there 👋 , I hope you getting a good day.</h1>
+<h1 align="left">Hi there 👋 </h1>
 
 <p align="left" margin="10px">
-I'm Jedsada Tiwongvorakul (Pond). I really love to learn new things and improve myself every day and I hope today you enjoy coding. Nice to meet you guys 🙌
+I'm Jedsada Tiwongvorakul (Pond). I'm a Software Engineering @ Chiang Mai. I really love to learn new things and improve myself every day, and Today I hope you enjoy coding.
 </p>
 
 <!-- <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-jedsada&margin-w=15&margin-h=12&column=4" alt="t-jedsada"/></a></p>
