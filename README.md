@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋 </h1>
 
 <p align="left" margin="10px">
-My name is Jedsada Tiwongvorakul you can call me Pond. I'm a Software Engineering @ Chiang Mai. I really love to learn new things and improve myself every day, and Today I hope you enjoy coding.
+My name is Jedsada Tiwongvorakul. You can call me Pond. I'm a Software Engineering @ Chiang Mai. I love learning new things and improving myself every day, and Today, I hope you enjoy coding.
 </p>
 
 <!-- <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-jedsada&margin-w=15&margin-h=12&column=4" alt="t-jedsada"/></a></p>
