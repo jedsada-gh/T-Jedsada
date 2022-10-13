@@ -24,4 +24,4 @@ My name is Jedsada Tiwongvorakul. You can call me Pond. I'm a Software Engineeri
 
 [![paypal.me/pondthaitay](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/pondthaitay) - You can make one-time donations via PayPal. I'll probably buy a :coffee:. -->
 
-<a href="https://www.buymeacoffee.com/jedsada" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
+<a href="https://www.buymeacoffee.com/jedsada" target="blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
